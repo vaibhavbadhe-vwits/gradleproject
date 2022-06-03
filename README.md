@@ -1,0 +1,2 @@
+# gradleproject
+Test Localcicd INI
